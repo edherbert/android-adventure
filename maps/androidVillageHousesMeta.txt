@@ -1,0 +1,29 @@
+$ A House
+$ 000
+$ 2
+$ 2
+$ 2
+
+#House 0, 1
+androidVillage 10 9 0 0 12 6 0 1
+androidVillage 9 9 0 0 12 6 0 1
+
+#House 1, 1
+androidVillage 10 9 1 0 13 8 1 1
+androidVillage 9 9 1 0 13 8 1 1
+
+#House 2, 1
+androidVillage 10 9 2 0 12 7 2 1
+androidVillage 9 9 2 0 12 7 2 1
+
+#House 0, 2
+androidVillage 10 9 0 1 12 9 0 2
+androidVillage 9 9 0 1 12 9 0 2
+
+#House 1, 2
+androidVillage 10 9 1 1 3 7 1 2
+androidVillage 9 9 1 1 3 7 1 2
+
+#House 2, 2
+androidVillage 10 9 2 1 6 7 2 2
+androidVillage 9 9 2 1 6 7 2 2

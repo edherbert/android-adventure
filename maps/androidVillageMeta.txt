@@ -1,0 +1,55 @@
+#map attributes
+#Lines with $ are map attributes
+#The first is the name of the map
+#Second is the background colour of the map as a hexadecimal
+#The final two are the segWidth and segHeight for this map
+#The game expects these attributes to appear and be in this order
+$ Android Village
+$ 558032
+$ 2
+$ 2
+$ 1
+
+#Gui tiles start with an ! and go string x y segX segY
+
+! "The western path leads to the Desert. Tread with care." 2 5 0 2
+! "The northern path leads to the Eternal Abyss. You will need to complete the three trials to be allowed entry." 12 2 1 1
+! "The oldest tree in Android Village. It's also on an island." 9 8 0 1
+! "The southern path leads to the Great Forest. Watch out for vines." 9 6 1 2
+! "The eastern path leads to the Frozen Wastelands. Watch out for ice." 17 5 2 2
+
+#Warp tiles work like:
+#mapFileName warpTileLocX warpTileLocY warpTileSegLocX warpTileSegLocY destinationX destinationY destinationSegmentX destinationSegmentY
+
+#Lines with the ! symbol are dialogue tiles.
+#The game wants the dialogue, like "hello", in "" marks
+#Don't use " symbols in the dialogue though, it'll break it
+#The next bit is the tile x, y and seg x and y
+
+#House 0, 1
+androidVillageHouses 12 5 0 1 10 8 0 0
+#House 1, 1
+androidVillageHouses 13 7 1 1 10 8 1 0
+#House 2, 1
+androidVillageHouses 12 6 2 1 10 8 2 0
+#House 1, 2
+androidVillageHouses 12 8 0 2 10 8 0 1
+#House 1, 2
+androidVillageHouses 3 6 1 2 10 8 1 1
+#House 2, 2
+androidVillageHouses 6 6 2 2 10 8 2 1
+
+desert 0 6 0 2 17 6 3 3
+desert 0 7 0 2 17 7 3 3
+desert 0 8 0 2 17 8 3 3
+desert 0 9 0 2 17 9 3 3
+
+forest 8 11 1 2 8 1 2 0
+forest 9 11 1 2 9 1 2 0
+forest 10 11 1 2 10 1 2 0
+forest 11 11 1 2 11 1 2 0
+
+FrozenWasteland 18 6 2 2 1 6 0 3
+FrozenWasteland 18 7 2 2 1 7 0 3
+FrozenWasteland 18 8 2 2 1 8 0 3
+FrozenWasteland 18 9 2 2 1 9 0 3

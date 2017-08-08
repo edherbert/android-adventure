@@ -1,0 +1,15 @@
+$ The Forest
+$ 558032
+$ 3
+$ 3
+$ 4
+
+! "Welcome to the great forest! Continue south for the trial site." 7 4 2 0
+! "The trial site for the trial of sight." 11 7 2 3
+
+androidVillage 8 0 2 0 8 10 1 2
+androidVillage 9 0 2 0 9 10 1 2
+androidVillage 10 0 2 0 10 10 1 2
+androidVillage 11 0 2 0 11 10 1 2
+
+trialSite 9 7 2 3 10 8 0 0

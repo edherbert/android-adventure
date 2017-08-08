@@ -1,0 +1,26 @@
+$ The Frozen Wastelands
+$ C7EBFB
+$ 3
+$ 3
+$ 5
+
+! "This hole in the ice will take you further into the wastelands!" 14 4 3 3
+! "The coldest temperature that the wastelands have reached is -30 celceus!" 16 10 3 2
+! "The bad apples are believed to be the remains of red apples after they have been eaten." 1 1 3 2
+! "There is some text written on the sign in red crayon: 'Flash is the future of the web!'" 18 10 2 2
+! "This hole in the ice will take you to a secret place!" 2 1 2 2
+! "The trial site for the trial of strength." 10 6 1 2
+! "This hole in the ice will take you back to the entrance to the wastelands." 7 9 1 2
+! "sudo makeMeASandwich" 9 5 0 2
+
+None 13 3 3 3 18 10 3 2
+None 1 1 2 2 6 4 0 2
+None 8 9 1 2 7 3 0 3
+None 7 5 0 2 1 5 2 2
+
+androidVillage 0 6 0 3 17 6 2 2
+androidVillage 0 7 0 3 17 7 2 2
+androidVillage 0 8 0 3 17 8 2 2
+androidVillage 0 9 0 3 17 9 2 2
+
+trialSite 8 6 1 2 10 8 0 1

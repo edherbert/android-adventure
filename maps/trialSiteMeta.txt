@@ -1,0 +1,14 @@
+$ Trial Site
+$ 558032
+$ 1
+$ 1
+$ 7
+
+forest 9 9 0 0 9 8 2 3
+forest 10 9 0 0 9 8 2 3
+
+desert 10 9 1 0 9 6 0 0
+desert 9 9 1 0 9 6 0 0
+
+FrozenWasteland 9 9 0 1 8 7 1 2
+FrozenWasteland 10 9 0 1 8 7 1 2

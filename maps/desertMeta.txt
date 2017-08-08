@@ -1,0 +1,45 @@
+$ The Desert
+$ D8C880
+$ 3
+$ 3
+$ 3
+
+None 7 2 3 3 11 4 3 3
+None 2 2 3 3 14 6 3 2
+None 3 9 3 3 2 6 2 3
+None 17 6 2 3 11 4 3 3
+None 5 9 2 2 2 8 3 3
+None 2 5 2 2 14 3 0 1
+None 5 2 2 2 14 5 3 1
+None 4 4 0 1 2 5 1 3
+None 2 5 3 1 14 6 3 2
+None 11 5 1 3 2 6 2 3
+None 17 5 0 3 11 4 3 3
+None 4 7 0 2 17 6 3 0
+None 6 3 1 2 14 3 0 1
+None 2 6 1 0 13 5 2 1
+None 2 2 2 1 9 10 0 0
+None 15 4 0 0 11 4 3 3
+None 2 9 2 1 2 5 0 3
+
+trialSite 9 5 0 0 10 8 1 0
+
+androidVillage 18 6 3 3 1 6 0 2
+androidVillage 18 7 3 3 1 7 0 2
+androidVillage 18 8 3 3 1 8 0 2
+androidVillage 18 9 3 3 1 9 0 2
+
+! "Watch out for quick sand!" 17 2 3 3
+! "The quicksand to the south leads to the trial site!" 4 6 2 1
+! "You knock on the door. It appears to be locked. It also appears that the house is just a cardboard cutout. Apparently you've been swindled." 9 5 0 3
+! "The words 'Trial Site' are written on the sign in red crayon." 11 5 0 3
+
+! "You're nearly there!" 15 4 3 0
+! "Just a bit more!" 5 4 2 0
+! "Isn't this exciting!" 5 4 1 0
+! "This is awkward. You're not supposed to be able to read this sign." 8 6 1 2
+! "The android village was founded by an android named Murasaki." 6 2 1 1
+! "Murasaki, the founder of Android Village, was also credited with creating the sinkhole system in the desert." 15 3 2 3
+! "This is a sign in the desert." 11 4 1 3
+
+! "The trial site for the trial of deduction." 11 5 0 0
